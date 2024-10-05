@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalBankAccount", "Exte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalBankAccountUpdate", "ExternalBankAccountUpdate\ExternalBankAccountUpdate.csproj", "{B6DB5A56-F156-4273-B35A-FE1F4ADCC621}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalAccountCard", "ExternalAccountCard\ExternalAccountCard.csproj", "{042D3EDE-797D-4A19-A452-31F525D1B579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalAccountCardUpdate", "ExternalAccountCardUpdate\ExternalAccountCardUpdate.csproj", "{A9BA7842-178A-4916-B702-0D6E62391C36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{B6DB5A56-F156-4273-B35A-FE1F4ADCC621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6DB5A56-F156-4273-B35A-FE1F4ADCC621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6DB5A56-F156-4273-B35A-FE1F4ADCC621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042D3EDE-797D-4A19-A452-31F525D1B579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042D3EDE-797D-4A19-A452-31F525D1B579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042D3EDE-797D-4A19-A452-31F525D1B579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042D3EDE-797D-4A19-A452-31F525D1B579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9BA7842-178A-4916-B702-0D6E62391C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BA7842-178A-4916-B702-0D6E62391C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BA7842-178A-4916-B702-0D6E62391C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BA7842-178A-4916-B702-0D6E62391C36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
